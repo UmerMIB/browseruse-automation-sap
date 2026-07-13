@@ -68,8 +68,5 @@ The project includes an example task for creating and assigning permission roles
 4. Assign the role to HR managers
 5. Capture screenshots at critical steps for documentation
 
-## License
-[Add appropriate license information here]
-
 ## Acknowledgements
 This project uses [browser-use](https://github.com/browser-use/browser-use) for browser automation capabilities. 
